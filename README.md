@@ -31,3 +31,16 @@ Deze repository bevat de code en analyses ontwikkeld in het kader van mijn maste
 #### `predictive/`
 - `feature_engineering.ipynb`: Feature creatie, imputatie, en datasplitsing
 - `model.ipynb`: Predictieve modellen (Logistic Regression, Random Forest, XGBoost), inclusief feature selection met permutation importance en Boruta
+
+## Vereiste packages
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- statsmodels
+- scipy
+- boruta
+- MLstatkit
+- rapidfuzz
