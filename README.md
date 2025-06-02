@@ -1,6 +1,6 @@
 # Masterproef – Data-driven onderzoek naar nichesport: de schepcorner in het minivoetbal
 
-Deze repository bevat de code en analyses ontwikkeld in het kader van mijn masterproef aan de Universiteit Gent. De focus ligt op het onderzoeken de schepcorner in minivoetbal via zowel beschrijvende statistiek als predictieve modellering.
+Deze repository bevat de code en analyses ontwikkeld in het kader van mijn masterproef aan de Universiteit Gent. De focus ligt op het onderzoeken van de schepcorner in minivoetbal via zowel beschrijvende statistiek als predictieve modellering.
 
 > **Titel**: *Data-driven onderzoek naar nichesport: de schepcorner in het minivoetbal*  
 > **Auteur**: Simon Cosyns  
